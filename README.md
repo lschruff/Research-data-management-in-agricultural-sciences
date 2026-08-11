@@ -9,7 +9,7 @@ As part of the series ‘Tailored Research Data Management Training for Agricult
 - **Domain:** Agricultural sciences
 - **Duration:** 2 h
 - **Learning resource type:** Presentation slides, teaching script
-- **Formats:** pdf, pptx, odp, xlsx, ods
+- **Formats:** pdf, pptx, odp, xlsx, ods 
 
 ## Navigation
 
