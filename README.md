@@ -13,7 +13,7 @@ As part of the series ‘Tailored Research Data Management Training for Agricult
 
 ## Navigation
 
-- 1. README (README_DataDocumentation_agri.pdf)
+- 1. [README](README_DataDocumentation_agri.pdf)
 - 2. the teachingscript:
   - a. [Teachingscript_DataDocumentation_agri.pdf](teaching_script/Teachingscript_DataDocumentation_agri.pdf)
   - b. [Teachingscript_ DataDocumentation_agri.ods](teaching_script/Teachingscript_DataDocumentation_agri.ods)
