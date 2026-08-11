@@ -13,20 +13,15 @@ As part of the series ‘Tailored Research Data Management Training for Agricult
 
 ## Navigation
 
-1. README (https://repository.publisso.de/resource/frl:6511659/data)
-2. the teachingscript
-a. Teachingscript_DataDocumentation_agri.pdf
-(https://repository.publisso.de/resource/frl:6511661/data)
-b. Teachingscript_ DataDocumentation_agri.ods
-(https://repository.publisso.de/resource/frl:6511662/data)
-c. Teachingscript_ DataDocumentation_agri.xlsx
-(https://repository.publisso.de/resource/frl:6511663/data)
-3. the presentationslides
-a. Slides_ DataDocumentation_agri.pdf
-(https://repository.publisso.de/resource/frl:6511665/data)b. Slides_ DataDocumentation_agri.odp
-(https://repository.publisso.de/resource/frl:6511666/data)
-c. Slides_ DataDocumentation_agri.pptx
-(https://repository.publisso.de/resource/frl:6511667/data)
+- 1. README (README_DataDocumentation_agri.pdf)
+- 2. the teachingscript:
+  - a. [Teachingscript_DataDocumentation_agri.pdf](teaching_script/Teachingscript_DataDocumentation_agri.pdf)
+  - b. [Teachingscript_ DataDocumentation_agri.ods](teaching_script/Teachingscript_DataDocumentation_agri.ods)
+  - c. [Teachingscript_ DataDocumentation_agri.xlsx](teaching_script/Teachingscript_DataDocumentation_agri.xlsx)
+- 3. the presentationslides:
+  - a. [Slides_DataDocumentation_agri.pdf](presentation_slides/Slides_ DataDocumentation_agri.pdf)
+  - b. [Slides_DataDocumentation_agri.odp](presentation_slides/Slides_ DataDocumentation_agri.odp)
+  - c. [Slides_DataDocumentation_agri.pptx](presentation_slides/Slides_ DataDocumentation_agri.pptx)
 
 ## License
 
