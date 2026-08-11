@@ -29,7 +29,7 @@ Research Data Management in Agricultural Sciences - Advanced module: Data docume
 
 ## Citation
 
-Boße, S.; Jordan, S.; Schneider, G.; Vedder, L. Research Data Management in Agricultural Sciences - Advanced module: Data documentation – Trainingsmaterial, 2025, DOI 10.4126/FRL01-006428850
+Boße, S.; Jordan, S.; Schneider, G.; Vedder, L. Research Data Management in Agricultural Sciences - Advanced module: Data documentation – Trainingsmaterial, 2025, DOI [10.4126/FRL01-006428850](https://doi.org/10.4126/FRL01-006428850)
 
 ## Funding
 
@@ -41,8 +41,8 @@ This advanced module was held following an introductory lecture and another adva
 
 ### Introductory Lecture
 
-Boße, S.; Jordan, S.; Rey Mazón, E.; Schröder, K. Introduction to Research Data Management in Agricultural Sciences – Trainingsmaterial, 2025, DOI 10.4126/FRL01-006428881
+Boße, S.; Jordan, S.; Rey Mazón, E.; Schröder, K. Introduction to Research Data Management in Agricultural Sciences – Trainingsmaterial, 2025, DOI [10.4126/FRL01-006428881](https://doi.org/10.4126/FRL01-006428881)
 
 ### Workshop on Data Publication
 
-Boße, S.; Jordan, S.; Rey Mazón, E.; Sahwan, W. Research Data Management in Agricultural Sciences - Advanced module: Data publication – Trainingsmaterial, 2025, DOI 10.4126/FRL01-006426818
+Boße, S.; Jordan, S.; Rey Mazón, E.; Sahwan, W. Research Data Management in Agricultural Sciences - Advanced module: Data publication – Trainingsmaterial, 2025, DOI [10.4126/FRL01-006426818](https://doi.org/10.4126/FRL01-006426818)
