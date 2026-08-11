@@ -19,9 +19,9 @@ As part of the series ‘Tailored Research Data Management Training for Agricult
   - b. [Teachingscript_ DataDocumentation_agri.ods](teaching_script/Teachingscript_DataDocumentation_agri.ods)
   - c. [Teachingscript_ DataDocumentation_agri.xlsx](teaching_script/Teachingscript_DataDocumentation_agri.xlsx)
 - 3. the presentationslides:
-  - a. [Slides_DataDocumentation_agri.pdf](presentation_slides/Slides_ DataDocumentation_agri.pdf)
-  - b. [Slides_DataDocumentation_agri.odp](presentation_slides/Slides_ DataDocumentation_agri.odp)
-  - c. [Slides_DataDocumentation_agri.pptx](presentation_slides/Slides_ DataDocumentation_agri.pptx)
+  - a. [Slides_DataDocumentation_agri.pdf](presentation_slides/Slides_DataDocumentation_agri.pdf)
+  - b. [Slides_DataDocumentation_agri.odp](presentation_slides/Slides_DataDocumentation_agri.odp)
+  - c. [Slides_DataDocumentation_agri.pptx](presentation_slides/Slides_DataDocumentation_agri.pptx)
 
 ## License
 
